@@ -1,8 +1,9 @@
 # IcarisTech
 <div align="center">
-<img src="https://res.cloudinary.com/draig/image/upload/v1732102820/kknecfn1arvenbnoceqv.png" width="200" alt="LOGO" />
+<img src="https://res.cloudinary.com/draig/image/upload/v1732102820/kknecfn1arvenbnoceqv.png" width="200" alt="LOGO"  />
 </div>
-**Elevating technology to new horizons.**
+
+### **Elevating technology to new horizons.**
 
 Welcome to the official GitHub repository of **IcarisTech**, a cutting-edge technology company dedicated to delivering innovative software solutions. Inspired by the ambition and vision of Icarus, we aim to transcend boundaries through advanced technologies and creative problem-solving.
 
