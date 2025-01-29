@@ -1,6 +1,7 @@
 # IcarisTech
 <div align="center">
-<img src="https://res.cloudinary.com/draig/image/upload/v1732102820/kknecfn1arvenbnoceqv.png" width="200" alt="LOGO"  />
+  <a href="https://icaristech.com">
+<img src="https://res.cloudinary.com/draig/image/upload/v1732102820/kknecfn1arvenbnoceqv.png" width="200" alt="LOGO"  /></a>
 </div>
 
 ### **Elevating technology to new horizons.**
