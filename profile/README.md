@@ -47,7 +47,7 @@ Actually we working in private projects to our clients
 We’d love to hear from you! Reach out for any questions, collaboration ideas, or feedback:
 
 - Email: **agustind@duck.com**
-- Website: (Not available)
+- Website: [IcarisTech Web](https://icaristech.com)
 - LinkedIn: [IcarisTech](https://www.linkedin.com/company/icaristech)
 
 ---
